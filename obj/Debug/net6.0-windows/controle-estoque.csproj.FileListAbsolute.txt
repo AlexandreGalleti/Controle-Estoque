@@ -1,0 +1,16 @@
+C:\Projetos\controle-estoque\bin\Debug\net6.0-windows\controle-estoque.exe
+C:\Projetos\controle-estoque\bin\Debug\net6.0-windows\controle-estoque.deps.json
+C:\Projetos\controle-estoque\bin\Debug\net6.0-windows\controle-estoque.runtimeconfig.json
+C:\Projetos\controle-estoque\bin\Debug\net6.0-windows\controle-estoque.dll
+C:\Projetos\controle-estoque\bin\Debug\net6.0-windows\controle-estoque.pdb
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle_estoque.Form1.resources
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.csproj.GenerateResource.cache
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.AssemblyInfoInputs.cache
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.AssemblyInfo.cs
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.csproj.CoreCompileInputs.cache
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.dll
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\refint\controle-estoque.dll
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.pdb
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\controle-estoque.genruntimeconfig.cache
+C:\Projetos\controle-estoque\obj\Debug\net6.0-windows\ref\controle-estoque.dll
